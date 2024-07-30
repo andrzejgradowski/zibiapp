@@ -36,7 +36,5 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Run tests
       run: bundle exec rake
-Wknpim2010!#
-Wknpim2010!@
 
 UPDATE pg_database SET encoding='UTF-8', WHERE datname='numeracja';
